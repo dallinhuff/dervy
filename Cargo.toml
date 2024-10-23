@@ -2,6 +2,12 @@
 name = "dervy"
 version = "0.1.0"
 edition = "2021"
+authors = [ "Dallin Huff"]
+description = "Auto-derivation for entity types in domain-driven design"
+homepage = "https://www.github.com/dallinhuff/dervy"
+repository = "https://www.github.com/dallinhuff/dervy"
+readme = "README.md"
+license-file = "LICENSE.md"
 
 [dependencies]
 syn = "2.0"
